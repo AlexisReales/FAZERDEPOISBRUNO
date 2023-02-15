@@ -1,0 +1,31 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+
+header{
+    display: flex;
+    padding: 10px;
+    background-color: #85DEFA;
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+main{
+    margin-top: 20px;
+    width: 75%;
+}
+main .cc1, .cc2{
+    margin-top: 20px;
+}
+main .cc1 h2, .cc2 h2{
+    margin-bottom: 20px;
+}
+p{
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;;
+}
+body{
+    background: linear-gradient(to right, #85DEFA, #f0e4e4)
+}

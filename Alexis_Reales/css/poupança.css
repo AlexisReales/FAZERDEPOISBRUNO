@@ -1,0 +1,26 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+
+header{
+    display: flex;
+    padding: 10px;
+    background-color: #85DEFA;
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+p{
+    text-align: justify;
+    width: 75%;
+    font-family: 'Ubuntu', sans-serif;
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body{
+    background: linear-gradient(to right, #85DEFA, #f0e4e4)
+}
