@@ -1,0 +1,80 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+
+header{
+    display: flex;
+    padding: 10px;
+    background-color: #85DEFA;
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: #0000ee;
+}
+main .cc1, .cc2, .cc3, .cc4{
+    margin-top: 20px;
+}
+main .cc1 p, .cc2 p, .cc3 p, .cc4 p{
+    text-align: justify;
+    width: 40%;
+    margin-top: 20px;
+}
+.cc4 h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cc3 h3{
+    margin-top: 20px;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+h1, h2, h3{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background: linear-gradient(to right, #85DEFA, #f0e4e4)
+}
+
+aside input{
+    display: flex;
+    flex-direction: column;
+    padding: 7px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 5px 8px #85DEFA;
+}
+#n3{
+    margin-bottom: 20px;
+}
+
+aside button{
+    padding: 10px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+aside{
+    padding: 20px;
+    margin-top: 20px;
+    border: 3px solid black;
+    width: 20%;
+}
+footer{
+    padding: 10px;
+    background-color: #85DEFA;
+    margin-top: 20px;
+}
+aside h2{
+    margin-bottom: 20px;
+    border-bottom: 2px solid black;
+    
+}
+aside #n1, #n2, #n3{
+    margin-bottom: 20px;
+}
